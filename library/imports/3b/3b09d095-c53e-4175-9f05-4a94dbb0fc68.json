@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "car_die",
+    "texture": "f665cfc6-717b-471b-b819-c7bf2b8167ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      29
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

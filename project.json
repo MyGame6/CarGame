@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "CarGame",
+  "id": "ec1fb323-33af-47dd-95c2-c53fcf72138e",
+  "version": "2.4.5",
+  "isNew": false
+}
